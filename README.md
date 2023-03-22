@@ -1,4 +1,4 @@
-# takehometest-sunlife: Back-end code
+# takehometest-sunlife: Back-end and Frond-end code
 
 #created a web server with framework to implement the endpoints.
-#We also handle any errors that may occur during the requests by returning a 500 status code with an error message.
+#handled any errors that may occur during the requests by returning a 500 status code with an error message.
